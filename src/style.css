@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --font-candy: "candy", sans-serif;
+  --color-pink: #e321ac;
+  --color-orange: #ffb33f;
+}
+
+body {
+  background-image: url(/public/media/bg.png);
+  background-size: cover; /* Ændre til 'contain', hvis det skal passe inden for */
+  background-repeat: no-repeat; /* Forhindrer gentagelse af billedet */
+}
+
+@font-face {
+  font-family: "candy";
+  src: url("/opti-formula-one.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}

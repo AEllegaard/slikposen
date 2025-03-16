@@ -1,0 +1,93 @@
+[
+    {
+        "navn": "Sine",
+        "sliknavn": "Sommerfugle",
+        "slikimg": "/media/sommerfugl.png",
+        "beskrivelse" : "De kilder så dejligt i mavsen!",
+        "bredde" : "250px"
+
+    },
+    {
+       "navn": "Karl",
+        "sliknavn": "Bløde Bjørne",
+        "slikimg": "/media/bear.png",
+        "beskrivelse" : "Man ved aldrig helt hvad man får – men man ved det godt lidt alligevel..."
+
+    },
+    {
+        "navn": "Emma",
+        "sliknavn": "Bueno mini",
+        "slikimg": "/media/bueno.png",
+        "beskrivelse" : "Man får det lidt mere bueno når man spiser dem",
+        "bredde" : "350px"
+        
+    },
+    {
+        "navn": "Freja",
+        "sliknavn": "Center",
+        "slikimg": "/media/center.png",
+        "beskrivelse" : "Hård udenpå, blød indeni. Sød hele vejen igennem (med mindre det er den med sea salt, den er også god)<3",
+        "bredde" : "250px"
+        
+    },
+    {
+        "navn": "Oliver",
+        "sliknavn": "Djunglevrål",
+        "slikimg": "/media/djungle.png",
+        "beskrivelse" : "Fordi man mærker fandeme man lever når man sutter på dem",
+        "bredde" : "300px"
+        
+    },
+    {
+        "navn": "Benjamin",
+        "sliknavn": "Tudser",
+        "slikimg": "/media/frog.png",
+        "beskrivelse" : "Dem med skum er bedst!"
+        
+    },
+    {
+        "navn": "Mille",
+        "sliknavn": "Sweethearts",
+        "slikimg": "/media/heart.png",
+        "beskrivelse" : "Som tak for at lære mig at kode <3",
+        "bredde" : "330px"
+        
+    },
+    {
+        "navn": "Helena",
+        "sliknavn": "Store Heksehyl",
+        "slikimg": "/media/heksehyl.png",
+        "beskrivelse" : "Skarpe, salte feminister udenpå, men bløde indeni."
+        
+    },
+    {
+        "navn": "Charlotte",
+        "sliknavn": "Frugt kastanjer",
+        "slikimg": "/media/kastanje.png",
+        "beskrivelse" : "Søde bidder af nostalgi",
+        "bredde" : "350px"
+        
+    },
+    {
+        "navn": "Baldrian",
+        "sliknavn": "Pain brushes",
+        "slikimg": "/media/paint.png",
+        "beskrivelse" : "For lidt farve på en grå dag."
+        
+    },
+    {
+        "navn": "Anna",
+        "sliknavn": "Peaches",
+        "slikimg": "/media/peach.png",
+        "beskrivelse" : "Det er som om, de små sukkerdækkede ferskener hvisker: Bare én til... vi siger det ikke til nogen."
+        
+    },
+    {
+        "navn": "Thea",
+        "sliknavn": "Vampyrer",
+        "slikimg": "/media/vamoyr.png",
+        "beskrivelse" : "i nattens muld og mørke er det godt med en blodtørstig lakrids og vingummi vinger"
+        
+    }
+    
+]
