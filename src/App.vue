@@ -95,7 +95,7 @@ function closePopup() {
         :width="item.bredde"
         :src="item.slikimg"
         :alt="item.sliknavn"
-        class="img-shad hover:rotate-15 hover:scale-110"
+        class="img-shad hover:rotate-15 hover:scale-120"
       />
     </div>
     <img src="/media/logo.png" alt="" class="absolute w-30 right-25 bottom-0">
