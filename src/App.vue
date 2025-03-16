@@ -129,6 +129,10 @@ function closePopup() {
 </template>
 
 <style scoped>
+img:hover{
+  cursor: pointer;
+}
+
 /* Popup animation */
 .popup-fade-enter-active,
 .popup-fade-leave-active {
