@@ -115,12 +115,14 @@ function closePopup() {
     <div class="popup-content font-candy w-150">
       <h2 class="text-xl text-pink">Kæreste Karsten</h2>
       <p class="text-left"> <br>
-      Vi er så taknemmlige for at du har turde at tage springet med os i denne digitale verden. 
-    vi værdsætter det arbejde du har lagt i os og den støtte du har viser os, når vi synes det er svært. <br><br>
-    Vi har lavet en helt særlig pose slik til dig. Den er fyldt med det vi elsker allermest.
-    <br> <br>
-    De sukkersødeste hilsner <br>
-    CD2 </p>
+Vi er så taknemmelige for, at du har taget springet med os ind i kodens verden. Vi sætter stor pris på alt det arbejde, du har lagt i vores uddannelse – og ikke mindst i os. <br><br>
+Din omsorgsfulde støtte og enorme engagement har ikke bare hjulpet os fagligt, men også givet os mod og lyst til at kaste os ud i nye udfordringer. Det gør en verden til forskel. <br><br>
+
+Som en lille tak har vi samlet en særlig pose slik til dig – fyldt med det, vi selv holder allermest af. <br><br>
+Vi sender dig og familien de kærligste tanker og ønsker dig god bedring. <br><br>
+
+De varmeste og sukkersødeste hilsner <br>
+CD2</p>
       <button @click="showInitialPopup = false">Luk</button>
     </div>
   </div>
